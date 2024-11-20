@@ -1,3 +1,3 @@
-## Snippets
+# Snippets
 
 hola@jano.cool
